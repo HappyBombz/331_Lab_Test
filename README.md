@@ -1,2 +1,2 @@
 # 331_Lab_Test
-Practice example for destroign the repo
+Practice example for creating the repo
