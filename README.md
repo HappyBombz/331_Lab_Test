@@ -1,2 +1,2 @@
 # 331_Lab_Test
-Practice example for making repo
+Practice example for creating the repo
